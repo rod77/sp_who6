@@ -14,3 +14,5 @@ sp_who6
 sp_who6 1
 ```
 
+Ejemplo de resultado:
+![image](https://user-images.githubusercontent.com/5633248/205131329-c9ed8e24-042a-4cf0-8d82-0e9a002426ea.png)
